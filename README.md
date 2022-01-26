@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aidenwood
-- 👀 I’m a Gold Coast based Website Designer and Developer, focusing on low-latency systems.
-- 🌱 I’m currently learning React, Vue and Spring.
+- 👀 I’m a Gold Coast based front-end designer / full-stack developer.
+- 🌱 I’m currently diving deeper into React websites & Dart for Applications.
 - 📫 You can always quickly reach me at aiden@sitelabanalytics.com
 
 <!---
