@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @aidenwood
-- 👀 I’m a Gold Coast based front-end designer / full-stack developer.
+
+- 👀 I’m a Gold Coast based web designer with a passion emerging digital marketing technologies. 
+I mostly focus on the art of code as a Front-end Designer, but I help provide a complete full-stack experience for my clients at Sitelab Analytics. My biggest pet peeve is having a problem thats out of my control when I know the solution. Sitelab was created to offer small businesses on the Gold Coast a more affordable option to build their business on top of the best frameworks for them. 
+
 - 🌱 I’m currently diving deeper into React websites & Dart for Applications.
+
 - 📫 You can always quickly reach me at aiden@sitelabanalytics.com
 
 <!---
