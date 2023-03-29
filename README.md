@@ -1,7 +1,7 @@
 # Aidxn
 
 
-# ○ - Aiden Wood Design and Development
+# ○ - Aiden Wood Web Design
     - Gold Coast web designer, over 10 years of writing code. 
     - HTML, CSS, DNS, MYSQL, PHP, JS, REACT, NEXT, VUE, ASTRO.
 
