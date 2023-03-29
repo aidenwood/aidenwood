@@ -1,30 +1,25 @@
 # Aidxn
 
 
-# ○
-### Aiden Wood Design and Development
+# ○ - Aiden Wood Design and Development
     - Gold Coast web designer, over 10 years of writing code. 
     - HTML, CSS, DNS, MYSQL, PHP, JS, REACT, NEXT, VUE, ASTRO.
 
-# ●
-### Building Better Brands. 
+# ● - Building Better Brands.
     - Design, develop, deploy and drilldown all-in-one.
     - Diving into Vue and Astro.
 
-# ◉
-### Developer of Velocity.V6
+# ◉ - Developer of Velocity.V6
     - Making the internet faster, even in Australia.
     - Specialising in making websites load in under 0.4 seconds.
 
 
 ### 📫 hi@aidxn.com
 
-
 <!---
 aidenwood/aidenwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 <p align="center">
 
