@@ -2,17 +2,18 @@
 
 
 # ○ - Aiden Wood Web Design 🌿
-    - Gold Coast web designer, over 10 years of writing code. 
-    - HTML, CSS, DNS, MYSQL, PHP, JS, REACT, NEXT, VUE, ASTRO.
 
-# ● - Building Better Brands 🌇
-    - Design, develop, deploy and drilldown all-in-one.
+    - HTML, CSS, DNS, MYSQL, PHP, JS, REACT, NEXT, VUE, ASTRO.
     - Diving into Vue and Astro.
 
-# ◉ - Developer of Velocity 🛸
-    - Making the internet faster, even in Australia.
-    - Specialising in making websites load in under 0.4 seconds.
+# ● - Building Better Brands 🌇
+    - Gold Coast web designer, over 10 years of writing code. 
+    - Design, development, automation all-in-one.
 
+
+# ◉ - Developer of Velocity7 🛸
+    - Conversion focused design.
+    - Making Australian websites faster.
 
 ### 📫 hi@aidxn.com
 
