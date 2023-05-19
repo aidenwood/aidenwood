@@ -1,19 +1,13 @@
 # Aidxn.com/
 
+# ○ - Aiden Wood Web Design
+    - Gold Coast web designer, over 10 years of writing code.
+    
+# ● - Building Better Brands
+    - Brand Strategy to Brand Design, Web Design and Development, Automation and AI all-in-one.
 
-# ○ - Aiden Wood Web Design 🌿
-
-    - HTML, CSS, DNS, MYSQL, PHP, JS, REACT, NEXT, VUE, ASTRO.
-    - Diving into Vue and Astro.
-
-# ● - Building Better Brands 🌇
-    - Gold Coast web designer, over 10 years of writing code. 
-    - Design, development, automation all-in-one.
-
-
-# ◉ - Developer of Velocity7 🛸
-    - Conversion focused design.
-    - Making Australian websites faster.
+# ◉ - Developer of Velocity7
+    - Conversion focused, high-performance website theme.
 
 ### 📫 hi@aidxn.com
 
