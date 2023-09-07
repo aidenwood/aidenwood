@@ -1,7 +1,10 @@
 # Aidxn.com/
 
 # ○ - Aiden Wood Web Design
-    - Gold Coast web designer, over 10 years of writing code.
+    - Gold Coast web designer. 
+    - Over 10 years of writing code. 
+    - Over 8 years of graphic design.
+    - Over 6 years of marketing management.
     
 # ● - Building Better Brands
     - Brand Strategy to Brand Design, Web Design and Development, Automation and AI all-in-one.
