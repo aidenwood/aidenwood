@@ -6,8 +6,9 @@
 # ● - Building Better Brands
     - Brand Strategy to Brand Design, Web Design and Development, Automation and AI all-in-one.
 
-# ◉ - Developer of Velocity7
+# ◉ - Developer of Velocity
     - Conversion focused, high-performance website theme.
+    [velocity.aidxn.com](https://aidxn.com/velocity/)
 
 ### 📫 hi@aidxn.com
 
