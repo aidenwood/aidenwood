@@ -8,6 +8,8 @@
     
 # ● - Building Better Brands
     - Brand Strategy to Brand Design, Web Design and Development, Automation and AI all-in-one.
+      I've worked 1 on 1 with brands for years, recently going out on my own. 
+      Now is your chance have an expert that works hard for your brand.
 
 # ◉ - Developer of Velocity
     - Conversion focused, high performance website theme.
