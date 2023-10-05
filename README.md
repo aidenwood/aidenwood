@@ -1,4 +1,4 @@
-# - Aiden Wood - Gold Coast Web Design
+## - Aidxn - Design by Aiden
     - 10+ years writing code, specialising in high-performance website design. 
     - 8+ years graphic design, focusing on SVG and light-weight design.
     - 8+ years of marketing management, experienced in reducing ad cost through SEO.
