@@ -1,7 +1,8 @@
-## - Aidxn - Design by Aiden
-    - 10+ years writing code, specialising in high-performance website design. 
-    - 8+ years graphic design, focusing on SVG and light-weight design.
-    - 8+ years of marketing management, experienced in reducing ad cost through SEO.
+## - Aiden Wood
+    - 12+ years industry experience working in IT, Marketing and Design. I specialising in high-performance website design. 
+    - Cert IV in Mutlimedia Design (2011)
+    - Bachelor of Interactive Entertainment (Software Development) - 2016
+    - Bach. of Business (Event Management) / Bach. of Design (Renewable Design Structures) - 2020
 
 ### aidxn.com/
 
